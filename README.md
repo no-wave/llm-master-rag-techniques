@@ -75,12 +75,8 @@ Table of Contents
 
 References. 참고 문헌
 
-### E-Book 구매
+## E-Book 구매
 
----
-
-### Github 코드
-
----
+## Github 코드
 
 [https://github.com/no-wave/book-llm-master-rag-techniques](https://github.com/no-wave/book-llm-master-rag-techniques)
