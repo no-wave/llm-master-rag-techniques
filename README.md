@@ -2,6 +2,9 @@
 
 LLM 구축을 위한 RAG 기초부터 심화까지 21개의 방법론 실전 가이드
 
+![image](https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FwWnq725rED1A6j6PYoeB%252FLLM%2520Master-%25E1%2584%2580%25E1%2585%25B5%25E1%2584%258E%25E1%2585%25A9%25E1%2584%2587%25E1%2585%25AE%25E1%2584%2590%25E1%2585%25A5%2520%25E1%2584%2589%25E1%2585%25B5%25E1%2586%25B7%25E1%2584%2592%25E1%2585%25AA%25E1%2584%2581%25E1%2585%25A1%25E1%2584%258C%25E1%2585%25B5%2520RAG%2520%25E1%2584%258F%25E1%2585%25AE%25E1%2586%25A8%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25A8.png%3Falt%3Dmedia%26token%3Dabe4234e-9021-42b2-905e-0a931016af7e&width=300&dpr=4&quality=100&sign=c7844fe6&sv=2)
+
+
 ## 책 소개
 
 이 책이 포함된 LLM Master 시리즈는 생성형 AI 시대를 살아가는 실무자와 개발자를 위해 기획되었다. ChatGPT를 비롯한 다양한 AI 도구들이 우리 일상과 업무에 빠르게 스며들고 있지만, 단순한 활용을 넘어 AI를 ‘내 일’과 ‘내 프로젝트’에 제대로 접목시키는 사람은 아직 많지 않다. LLM Master 시리즈는 이러한 격차를 줄이기 위해, 기초 이론부터 실무 프로젝트에 이르기까지 LLM을 완전히 내재화할 수 있는 커리큘럼을 제공한다. 특히 Python을 기반으로 한 코딩 중심 구성으로, 독자 스스로 AI 기능을 직접 구현하고 테스트하며 체화할 수 있도록 돕는다.
@@ -76,6 +79,9 @@ Table of Contents
 References. 참고 문헌
 
 ## E-Book 구매
+- Yes24: https://www.yes24.com/product/goods/147564053
+- 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011607709
+- 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=365835741
 
 ## Github 코드
 
